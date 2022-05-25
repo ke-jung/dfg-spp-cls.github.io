@@ -15,6 +15,11 @@ key: page-about
 Computational Literary Studies is an emerging interdisciplinary research field at the intersection of literary studies and computer science aiming to apply computational methods to digitized literary texts to learn more on literary history, narratology or literary writing style. In the priority programme SPP 2207 'Computational Literary Studies', starting in 2020, the [German Research Foundation (DFG)](https://www.dfg.de/) funds innovative projects from this research field.  
 Currently, the programme is comprised of 10 funded projects and one associated project, including researchers from 12 different research institutions in Germany and Switzerland.
 
+## Achievements
+A list of publications and resources from the SPP 2207 can be found in the Zotero group [SPP-CLS-Achievements](https://www.zotero.org/groups/4667571/spp-cls-achievements).
+
+The SPP 2207 has also set up a community at the generic Zenodo repository: [SPP 2207 Computational Literary Studies](https://zenodo.org/communities/spp_cls/).
+
 ## The program committee
 
 [Prof. Dr. Fotis Jannidis](http://www.jannidis.de), Julius-Maximilians-Universität Würzburg, Professor, Computerphilologie (coordinator)
